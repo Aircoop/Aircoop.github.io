@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#37bd6c"/>
+  <circle cx="256" cy="256" r="168" fill="#fff8df"/>
+  <path d="M197 134h118v58c0 24 15 48 33 69 30 36 47 82 47 130v18c0 29-24 53-53 53H170c-29 0-53-24-53-53v-18c0-48 17-94 47-130 18-21 33-45 33-69v-58Z" fill="#f3b21b"/>
+  <path d="M216 72h80c16 0 29 13 29 29v45H187v-45c0-16 13-29 29-29Z" fill="#177541"/>
+  <path d="M169 314h174v93c0 11-9 20-20 20H189c-11 0-20-9-20-20v-93Z" fill="#fff"/>
+  <text x="256" y="382" fill="#177541" font-family="Arial, sans-serif" font-size="92" font-weight="800" text-anchor="middle">油</text>
+</svg>
